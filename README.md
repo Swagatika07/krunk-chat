@@ -2,8 +2,8 @@
 
 ## Output Screen
 
-![Uploading Krunk_Task.png…]()
 
+![Krunk_Task](https://github.com/Swagatika07/krunk-chat/assets/99073952/32481985-76af-40bd-84ac-694e8e6190c8)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
